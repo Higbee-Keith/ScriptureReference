@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ScriptureReference</string>
+    <string name="book">Book</string>
+    <string name="chapter">Chapter</string>
+    <string name="verse">Verse</string>
+    <string name="share">Share</string>
+    <string name="title_activity_display_scripture">Display Scripture</string>
+</resources>
